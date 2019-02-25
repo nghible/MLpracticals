@@ -1,3 +1,9 @@
+class MultiClassSVM:
+    
+    def __init__(self):
+        
+        print "Initialising"
+        
     # General description of Multi-class Support Vector Machine:
     #
     # We train a Kx(D + 1) weights matrix, where K is the number of classes, and D is the dimensions
